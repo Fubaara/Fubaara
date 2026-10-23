@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img">
+<rect x="0.5" y="0.5" width="999" height="63" rx="32" fill="#161b22" stroke="#30363d"/>
+<circle cx="36" cy="32" r="12" fill="#3fb950" opacity="0.25"/>
+<circle cx="36" cy="32" r="6" fill="#3fb950"/>
+<text x="62" y="38" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3"><tspan font-weight="600">Open to work</tspan><tspan fill="#8b949e">  —  seeking an international work-study position in software engineering</tspan></text>
+</svg>
