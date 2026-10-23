@@ -5,7 +5,7 @@
 **Computer science engineering student at EPITA, based in Paris, France.**  
 I enjoy understanding how software really works, from memory management to artificial intelligence models.
 
-<img src="assets/status.svg" alt="Open to work: seeking an international work-study position in software engineering." width="100%">
+<img src="assets/status.svg" alt="Open to work: seeking an international software engineering internship." width="100%">
 
 <a href="https://www.linkedin.com/in/tom-lelandais-514712346"><img src="assets/contact.svg" alt="Connect on LinkedIn" height="44"></a>
 
